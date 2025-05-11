@@ -1,6 +1,6 @@
 # CSCI316: Real Estate Valuation using Ensemble Learning
 
-This project was developed for the course *CSCI316 - Big Data Mining Techniques and Implementation* at NYU. We built a predictive analytics pipeline using PySpark and implemented two ensemble learning models—Bagging and Boosting—from scratch to predict real estate property values.
+This project was developed for the course *CSCI316 - Big Data Mining Techniques and Implementation* at UOWD. We built a predictive analytics pipeline using PySpark and implemented two ensemble learning models—Bagging and Boosting—from scratch to predict real estate property values.
 
 ## 🔍 Problem Statement
 Accurately predicting property prices is critical for real estate developers, investors, and urban planners. Traditional models fall short in capturing complex nonlinear market dynamics.
